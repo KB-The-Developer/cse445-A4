@@ -1,4 +1,4 @@
-<Hotels xmlns="https://kb-the-developer.github.io/cse445-A4/Hotels.xsd" xmlns:bs="https://kb-the-developer.github.io/cse445-A4/Hotels.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchmea-instance" xsi:schemaLocation="https://kb-the-developer.github.io/cse445-A4/Hotels.xsd">
+<Hotel xmlns="https://kb-the-developer.github.io/cse445-A4/Hotels.xsd" xmlns:bs="https://kb-the-developer.github.io/cse445-A4/Hotels.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchmea-instance" xsi:schemaLocation="https://kb-the-developer.github.io/cse445-A4/Hotels.xsd">
   <!--This is the the example that was given in the assignment-->
   <Hotel rating="4.2">
     <Name>Westin</Name>
@@ -27,7 +27,6 @@
   </Hotel>
 
   <Hotel rating="3.3">
-    <Name>Ramada by Wyndham Tempe/At Arizona Mills Mall</Name>
     <Phone>480-400-9038</Phone>
     <Address NearestAirport="Phoenix Sky Harbor International Airport">
       <Number>1701</Number>
@@ -53,7 +52,6 @@
 
   <Hotel>
     <Name>Caesars Palace</Name>
-    <Phone>(866) 227-5938</Phone>
     <Address NearestAirport="Harry Reid International Airport">
       <Number>3570</Number>
       <Street>S Las Vegas Blvd</Street>
@@ -72,11 +70,11 @@
       <City>Miami</City>
       <State>FL</State>
       <Zip>33130</Zip>
-    </Address>
   </Hotel>
 
   <Hotel>
     <Name>Courtyard Seattle Bellvue/Dowtown</Name>
+    <Name>Bellvue Downtown Hotel</Name>
     <Phone>+1 425-454-5886</Phone>
     <Address NearestAirport="Seattle-Tacome International Airport">
       <Number>11010</Number>
