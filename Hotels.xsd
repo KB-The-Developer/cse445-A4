@@ -29,7 +29,7 @@
     <xsd:complexType>
       <xsd:sequence>
         <xsd:element name="Name"/>
-        <xsd:element name="Phone"/>
+        <xsd:element name="Phone" minOccurs="1" maxOccurs="unbounded"/>
         <xsd:element name="Address"/>
       </xsd:sequence>
       <xsd:attribute name="Rating" type="xsd:decimal" use="optional"/>
