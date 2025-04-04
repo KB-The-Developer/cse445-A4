@@ -5,7 +5,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="">
+    <Address NearstAirport="">
       <Number>11</Number>
       <Street>E.7th St</Street>
       <City>Tempe</City>
@@ -18,7 +18,7 @@
   <Hotel rating="4.5">
     <Name>Mission Inn Hotels &amp; Spa</Name>
     <Phone>951-784-0300</Phone>
-    <Address NearestAirport="Ontario International Airport">
+    <Address NearstAirport="Ontario International Airport">
       <Number>3649</Number>
       <Street>Mission Inn Avenue</Street>
       <City>Riverside</City>
@@ -29,7 +29,7 @@
 
   <Hotel rating="3.3">
     <Phone>480-400-9038</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>1701</Number>
       <Street>W Baseline Rd</Street>
       <City>Tempe</City>
@@ -42,7 +42,7 @@
     <Name>Holiday Inn Express &amp; Suites Oswego</Name>
     <Phone>1 888 HOLIDAY (1 888 465 4329)</Phone>
     <Phone>1-315-2070100</Phone>
-    <Address NearestAirport="Oswego County Airport">
+    <Address NearstAirport="Oswego County Airport">
       <Number>140</Number>
       <Street>East Thirteenth Street</Street>
       <City>Oswego</City>
@@ -53,7 +53,7 @@
 
   <Hotel>
     <Name>Caesars Palace</Name>
-    <Address NearestAirport="Harry Reid International Airport">
+    <Address NearstAirport="Harry Reid International Airport">
       <Number>3570</Number>
       <Street>S Las Vegas Blvd</Street>
       <City>Las Vegas</City>
@@ -65,7 +65,7 @@
   <Hotel>
     <Name>Hampton Inn &amp; Suites Miami/Brickell-Downtown</Name>
     <Phone>+1 305-377-9400</Phone>
-    <Address NearestAirport="Miami International Airport">
+    <Address NearstAirport="Miami International Airport">
       <Number>50</Number>
       <Street>SW 12th St</Street>
       <City>Miami</City>
@@ -77,7 +77,7 @@
     <Name>Courtyard Seattle Bellvue/Dowtown</Name>
     <Name>Bellvue Downtown Hotel</Name>
     <Phone>+1 425-454-5886</Phone>
-    <Address NearestAirport="Seattle-Tacome International Airport">
+    <Address NearstAirport="Seattle-Tacome International Airport">
       <Number>11010</Number>
       <Street>NE 8th Street</Street>
       <City>Bellevue</City>
@@ -90,7 +90,7 @@
     <Name>Crowne Plaza Houston Med Ctr-Galleria Area</Name>
     <Phone>1-713-5238448</Phone>
     <Phone>1 877 2 CROWNE (1 877 227 6963)</Phone>
-    <Address NearestAirport="George Bush International Airport">
+    <Address NearstAirport="George Bush International Airport">
       <Number>2712</Number>
       <Street>Southwest Freeway</Street>
       <City>Houston</City>
@@ -102,7 +102,7 @@
   <Hotel rating="4.1">
     <Name>Everhome Suites Chandler Phoenix Fashion Center</Name>
     <Phone>480-409-9447</Phone>
-    <Address NearestAirport="Chandler Municipal Airport">
+    <Address NearstAirport="Chandler Municipal Airport">
       <Number>3200</Number>
       <Street>West Willis Road</Street>
       <City>Chandler</City>
@@ -114,7 +114,7 @@
   <Hotel rating="3.8">
     <Name>DoubleTree by Hilton Boston Bayside</Name>
     <Phone>+1 617-822-3600</Phone>
-    <Address NearestAirport="Boston Logan International Airport">
+    <Address NearstAirport="Boston Logan International Airport">
       <Number>240</Number>
       <Street>Mt. Vernon Street</Street>
       <City>Boston</City>
@@ -126,7 +126,7 @@
   <Hotel rating="4.3">
     <Name>Nantasket Beach Resort</Name>
     <Phone>888-641-4175</Phone>
-    <Address NearestAirport="Boston Logan International Airport">
+    <Address NearstAirport="Boston Logan International Airport">
       <Number>45</Number>
       <Street>Hull Shore Dr</Street>
       <City>Hull</City>

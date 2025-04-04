@@ -4,7 +4,7 @@
   <xsd:element name="Name" type="xsd:string"/>
   <xsd:element name="Phone" type="xsd:string"/>
   <xsd:attribute name="Rating" type="xsd:decimal"/>
-  <xsd:attribute name="NearestAirport" type="xsd:string"/>
+  <xsd:attribute name="NearstAirport" type="xsd:string"/>
 
   <xsd:element name="Number" type="xsd:int"/>
   <xsd:element name="Street" type="xsd:string"/>
@@ -22,7 +22,7 @@
         <xsd:element name="State"/>
         <xsd:element name="Zip"/>
       </xsd:sequence>
-      <xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
+      <xsd:attribute name="NearstAirport" type="xsd:string" use="required"/>
     </xsd:complexType>
   </xsd:element>
 
