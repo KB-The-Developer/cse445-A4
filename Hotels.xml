@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Hotels xmlns="https://kb-the-developer.github.io/cse445-A4/Hotels.xsd" xmlns:bs="https://kb-the-developer.github.io/cse445-A4/Hotels.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchmea-instance" xsi:schemaLocation="https://kb-the-developer.github.io/cse445-A4/Hotels.xsd">
   <!--This is the the example that was given in the assignment-->
   <Hotel rating="4.2">
