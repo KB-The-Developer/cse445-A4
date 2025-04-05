@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels xmlns="https://kb-the-developer.github.io/cse445-A4/Hotels.xsd" xmlns:bs="https://kb-the-developer.github.io/cse445-A4/Hotels.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchmea-instance" xsi:schemaLocation="https://kb-the-developer.github.io/cse445-A4/Hotels.xsd">
-  <!--This is the the example that was given in the assignment-->
   <Hotel rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
@@ -14,7 +13,6 @@
     </Address>
   </Hotel>
   
-  <!--10 of my own real world examples from the internet-->
   <Hotel rating="4.5">
     <Name>Mission Inn Hotels &amp; Spa</Name>
     <Phone>951-784-0300</Phone>
